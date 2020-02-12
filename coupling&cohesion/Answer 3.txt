@@ -1,0 +1,1 @@
+prog2 is a better implementation, starting right at the top with the name member. In prog A, this member is public which allows for direct manipulation, wheras prog2 keeps it private, forcing the use of the getters and setters, meaning that the member can be reliably validated. IE name is properly encapsulated
